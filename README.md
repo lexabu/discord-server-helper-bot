@@ -1,2 +1,3 @@
-# discord-server-helper-bot
-discord server helper bot
+# Discord-Server-Helper-Bot
+
+Bot to perform administrative tasks in a server
